@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/Dao=GBK
+encoding//src/Dao/Impl=GBK
+encoding//src/Dao/Impl/NewsDaoImpl.java=GBK
+encoding//src/Dao/Impl/TopicDaoImpl.java=GBK
+encoding//src/Dao/NewsDao.java=GBK
+encoding//src/Dao/TopicDao.java=GBK
+encoding//src/Dao/UcommentDao.java=GBK
+encoding//src/Dao/UserDao.java=GBK
+encoding//src/bean=GBK
+encoding//src/bean/News.java=GBK
+encoding//src/bean/Topic.java=GBK
+encoding//src/bean/Ucomment.java=GBK
+encoding//src/bean/User.java=GBK
+encoding//src/util/JDBC.java=UTF-8
+encoding/newsinfo.sql=UTF-8
